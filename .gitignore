@@ -1,0 +1,21 @@
+# KiCad backup files
+*.bak
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Temporary files
+*.tmp
+*.temp
+*.autosave
+
+# 3D cache
+*.3dshapes/
+
+# KiCad user settings (no versionar)
+sym-lib-table
+fp-lib-table
+
+# OS junk
+.DS_Store
+Thumbs.db
